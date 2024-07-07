@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://junenh.github.io</id>
+    <title>Slack</title>
+    <updated>2024-07-07T07:37:32.237Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://junenh.github.io"/>
+    <link rel="self" href="https://junenh.github.io/atom.xml"/>
+    <subtitle>道阻且长，行则将至！</subtitle>
+    <logo>https://junenh.github.io/images/avatar.png</logo>
+    <icon>https://junenh.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Slack</rights>
+</feed>
